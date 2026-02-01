@@ -2,7 +2,7 @@
 
 This repository contains download links for Keak Code releases.
 
-## Latest Release: v1.0.36
+## Latest Release: v1.0.37
 
 ### 📥 Download
 
